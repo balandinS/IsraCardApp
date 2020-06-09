@@ -1,0 +1,12 @@
+export const FETCH_MOVEIS = 'FETCH_MOVEIS';
+
+export const ADD_FAVORITE_MOVIE = 'ADD_FAVORITE_MOVIE';
+export const REMOVE_FAVORITE_MOVIE = 'REMOVE_FAVORITE_MOVIE';
+
+export const SIGNIN = 'SIGNIN'
+export const SIGNOUT = 'SIGNOUT';
+
+export const USER_SIGNINED = 'USER_SIGNINED';
+export const USER_SIGNINOUTED = 'USER_SIGNINOUTED';
+
+export const SHOW_INFO = 'SHOW_INFO'
