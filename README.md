@@ -11,7 +11,7 @@ git clone https://github.com/balandinS/IsraCardApp.git
 
 cd movieList
 
-yarn install or npmtall
+yarn install or npm install
 
 cd ios/
 
